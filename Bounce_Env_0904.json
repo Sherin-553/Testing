@@ -1,0 +1,349 @@
+{
+	"id": "2b844a3a-145f-470f-b69b-4ea50dc4cb4c",
+	"name": "UAT Bounce",
+	"values": [
+		{
+			"key": "ssoHost",
+			"value": "sso-api.qa.nursery.darsini.com",
+			"enabled": true
+		},
+		{
+			"key": "DarsAdmin",
+			"value": "superadmin@darisni.me",
+			"enabled": true
+		},
+		{
+			"key": "DarsPassword",
+			"value": "Strongpassword1",
+			"enabled": true
+		},
+		{
+			"key": "host",
+			"value": "api.qa.nursery.darsini.com",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFjY291bnRJZCI6MX0sImlhdCI6MTYxNzk1MjQxNSwiZXhwIjoxNjE4MDM4ODE1LCJpc3MiOiJEYXJpc25pIFNTTyBTZXJ2aWNlIn0.6pq_T-tG9xLPIrcI8Nw490fErgCIFZQnL6jJ3nLQOB7sF9lXZ5PvcOLd_jVv9H1f",
+			"enabled": true
+		},
+		{
+			"key": "account_id",
+			"value": 1,
+			"enabled": true
+		},
+		{
+			"key": "refreshToken",
+			"value": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFjY291bnRJZCI6MX0sImlhdCI6MTYxNzk1MjQxNSwiZXhwIjoxNjIwNTQ0NDE1LCJpc3MiOiJEYXJpc25pIFNTTyBTZXJ2aWNlIn0.6u7IWgy5STqty-iF8kfNC7SlPH2dJKQgK5IDqIC0lq-SEE2eoVV8NG0fO76wjqKQ",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": 1864,
+			"enabled": true
+		},
+		{
+			"key": "Email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "mpin",
+			"value": {},
+			"enabled": true
+		},
+		{
+			"key": "tenantId",
+			"value": 126,
+			"enabled": true
+		},
+		{
+			"key": "countryId",
+			"value": 95,
+			"enabled": true
+		},
+		{
+			"key": "count",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "NurseryName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "nurserytkk4d2dc0dl@yopmail.com",
+			"enabled": true
+		},
+		{
+			"key": "phoneNumber",
+			"value": "+965 56937465",
+			"enabled": true
+		},
+		{
+			"key": "random",
+			"value": "tkk4d2dc0dl",
+			"enabled": true
+		},
+		{
+			"key": "Nurseryid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Admin",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "NurseryAdminid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "EmailNursery",
+			"value": "anuraj.v+curksa@experionglobal.com",
+			"enabled": true
+		},
+		{
+			"key": "PasswordNursery",
+			"value": "nyj7aL",
+			"enabled": true
+		},
+		{
+			"key": "schoolAdminPhone",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "groupType",
+			"value": "Toddlers",
+			"enabled": true
+		},
+		{
+			"key": "GroupId",
+			"value": 809,
+			"enabled": true
+		},
+		{
+			"key": "countryCode",
+			"value": "KWD",
+			"enabled": true
+		},
+		{
+			"key": "profileId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "studentId",
+			"value": 862,
+			"enabled": true
+		},
+		{
+			"key": "RandomNumber",
+			"value": 4,
+			"enabled": true
+		},
+		{
+			"key": "current_date",
+			"value": "Fri Apr 09 2021",
+			"enabled": true
+		},
+		{
+			"key": "dateNow",
+			"value": "2021-04-09",
+			"enabled": true
+		},
+		{
+			"key": "emailid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "sphoneNumber",
+			"value": "+965 56950692",
+			"enabled": true
+		},
+		{
+			"key": "StudentGroupId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "StudentId",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "StudentprofileCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "StaffemployeeNumber",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "StaffprofileCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "roleId",
+			"value": 812,
+			"enabled": true
+		},
+		{
+			"key": "title",
+			"value": "Assistant",
+			"enabled": true
+		},
+		{
+			"key": "titleCode",
+			"value": "ASSISTANT",
+			"enabled": true
+		},
+		{
+			"key": "nurseId",
+			"value": 2333,
+			"enabled": true
+		},
+		{
+			"key": "countryPhoneCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Passwordlesslogin",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "destination",
+			"value": "+965 56950692",
+			"enabled": true
+		},
+		{
+			"key": "otp",
+			"value": "8696",
+			"enabled": true
+		},
+		{
+			"key": "teacherUserCode",
+			"value": "X0H82H",
+			"enabled": true
+		},
+		{
+			"key": "assistantId",
+			"value": 2334,
+			"enabled": true
+		},
+		{
+			"key": "assistantUserCode",
+			"value": "CFLQ5S",
+			"enabled": true
+		},
+		{
+			"key": "studentUserCode",
+			"value": "001190",
+			"enabled": true
+		},
+		{
+			"key": "s1phoneNumber",
+			"value": "+965 56360267",
+			"enabled": true
+		},
+		{
+			"key": "teacherId",
+			"value": 2332,
+			"enabled": true
+		},
+		{
+			"key": "nurseUserCode",
+			"value": "SDFKZZ",
+			"enabled": true
+		},
+		{
+			"key": "teacherroleId",
+			"value": 2218,
+			"enabled": true
+		},
+		{
+			"key": "nurseroleId",
+			"value": 2219,
+			"enabled": true
+		},
+		{
+			"key": "groupId",
+			"value": 809,
+			"enabled": true
+		},
+		{
+			"key": "announcementId",
+			"value": "606ffe186bee16001367f53a",
+			"enabled": true
+		},
+		{
+			"key": "commentId",
+			"value": "606ffe1d6bee16001367f540",
+			"enabled": true
+		},
+		{
+			"key": "assistantroleId",
+			"value": 2220,
+			"enabled": true
+		},
+		{
+			"key": "studentroleId",
+			"value": 2217,
+			"enabled": true
+		},
+		{
+			"key": "eventId",
+			"value": "606ffe186bee16001367f53a",
+			"enabled": true
+		},
+		{
+			"key": "lvcPasscode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "groupName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "profileid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "variable_value",
+			"enabled": true
+		},
+		{
+			"key": "user-profile-master-id",
+			"value": 1864,
+			"enabled": true
+		},
+		{
+			"key": "commmonTest",
+			"value": "() => {pm.test(\"Status code is 200\", function () {\n    pm.response.to.have.status(200);\n});\npm.test(\"Response time is less than 500ms\", function () {\n    pm.expect(pm.response.responseTime).to.be.below(500);\n});\n}",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-04-09T07:13:10.250Z",
+	"_postman_exported_using": "Postman/7.36.5"
+}
